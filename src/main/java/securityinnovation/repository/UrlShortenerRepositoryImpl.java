@@ -1,8 +1,6 @@
 package securityinnovation.repository;
 
-import com.google.common.collect.ImmutableList;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Component;
 import securityinnovation.data.UrlMapping;
 
